@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>第一篇博客</title>
-    <url>/2024/05/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>后续会陆续更新 :)</p>
-]]></content>
-  </entry>
-  <entry>
     <title>自定义Pytorch数据集类</title>
     <url>/2024/05/24/%E8%87%AA%E5%AE%9A%E4%B9%89pytorch%E6%95%B0%E6%8D%AE%E9%9B%86%E7%B1%BB/</url>
     <content><![CDATA[<p>在PyTorch 中，自定义数据集类的作用主要是为了灵活地处理数据加载和预处理，使得数据集与 DataLoader 更好地配合工作，可以方便地进行数据预处理、数据增强等操作，并能够处理不同格式的数据。</p>
@@ -17,5 +11,11 @@
         <tag>python</tag>
         <tag>深度学习</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/2024/05/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>后续会陆续更新 :)</p>
+]]></content>
   </entry>
 </search>
